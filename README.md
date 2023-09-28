@@ -1,4 +1,5 @@
-# Getting Started with Create React App
+# Creating app to Split a Bill
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+You can add new Friends and Split a bill wuth them. Easyway to keep track of who owns who!
+
 <img src="public\bill.PNG">
